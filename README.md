@@ -1,46 +1,22 @@
-📊 Sales Performance Dashboard (Power BI)
-📝 Overview
-This interactive Sales Performance Dashboard was created using Power BI to visualize key business metrics and uncover sales insights. The dashboard provides a comprehensive view of sales performance across multiple years and regions, enabling users to explore trends and patterns effectively.
+## 📊 Sales Performance Dashboard Insights
+(Sale-Performance.png)
+This dashboard provides a comprehensive overview of business performance over time, covering total sales, profit, unit sales, and regional distribution.
 
-![Sales-Performance-Dashboard](Sales-Performance.png)
+- 💰 **Total Sales**: $2.3M  
+- 🏆 **Total Profit**: $286.4K  
+- 📈 **Profit Margin**: 12.47% — reflects strong pricing and cost efficiency  
+- 📦 **Units Sold**: 37.87K
 
-💡 Key Features
-KPI Cards: Showcases high-level metrics including:
+### 📅 Sales Trends
+The time series line chart shows a significant sales spike around **November–December 2014**, likely driven by seasonal events or promotions. Sales fluctuated throughout 2015, revealing potential areas for growth or process improvement.
 
-Total Sales: $2.3M
+### 🌍 Regional Distribution
+A geographic map indicates strong performance in **North America**, with activity also observed in **Europe**, **Asia**, and **South America**, suggesting a globally distributed customer base with concentrated regional success.
 
-Total Profit: $286.4K
+### 🧩 Interactive Filters
+Users can explore data by:
+- **Year** (2015–2017)
+- **Month**
+- **Category**
 
-Profit Margin: 12.47%
-
-Units Sold: 37.87K
-
-Interactive Filters: Allows dynamic analysis by:
-
-Year (2015–2017)
-
-Month (January to December)
-
-Category (product categories or business lines)
-
-Time Series Analysis: Visualizes Total Sales trends by order year and month, helping identify seasonality or performance peaks.
-
-Geo Map Visualization: Highlights sales distribution across global regions, aiding geographic performance evaluation.
-
-🛠 Tools & Skills Used
-Power BI Desktop
-
-Data Cleaning & Transformation using Power Query
-
-DAX Measures for KPIs and custom calculations
-
-Data Visualization & UX design for storytelling
-
-📁 Use Case
-This dashboard is ideal for business stakeholders looking to:
-
-Monitor sales and profit performance over time
-
-Understand sales seasonality
-
-Compare performance across regions and product categories
+These filters enhance exploratory analysis, enabling focused insights by time period and business segment.
