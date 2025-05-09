@@ -1,7 +1,7 @@
 📊 Sales Performance Dashboard (Power BI)
 📝 Overview
 This interactive Sales Performance Dashboard was created using Power BI to visualize key business metrics and uncover sales insights. The dashboard provides a comprehensive view of sales performance across multiple years and regions, enabling users to explore trends and patterns effectively.
-![Executive Sales Dashboard](dashboard.png)
+Sales Performance.png
 💡 Key Features
 KPI Cards: Showcases high-level metrics including:
 
