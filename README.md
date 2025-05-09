@@ -1,5 +1,5 @@
 ## 📊 Sales Performance Dashboard Insights
-(Sales-Performance.png)
+![Sales-Performance-Dashboard](Sales-Performance.png)
 This dashboard provides a comprehensive overview of business performance over time, covering total sales, profit, unit sales, and regional distribution.
 
 - 💰 **Total Sales**: $2.3M  
